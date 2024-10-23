@@ -2,3 +2,18 @@
     background-color: rgb(255,204,203);
     font-family: "verdana","DejaVu sans", "sans-serif";
 }
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+.number.pixel {
+    font-size: 24px;
+}
+
+#olive {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
